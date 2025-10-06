@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Efe Yücel Bozkurt
+##👋 Hi, I'm Efe Yücel Bozkurt
 A Full-Stack Engineer from Türkiye
 
 ## Tech Stack
